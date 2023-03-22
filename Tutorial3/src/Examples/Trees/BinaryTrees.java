@@ -1,7 +1,5 @@
 package Examples.Trees;
 
-import com.sun.jdi.InterfaceType;
-
 import java.util.*;
 
 public class BinaryTrees {
